@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {background: grey;}
+
+#ejercicio1 {background: #09F05D; border-radius: 18px 18px 18px 18px;
+            -moz-border-radius: 18px 18px 18px 18px;
+            -webkit-border-radius: 18px 18px 18px 18px;
+            border: 0px solid #000000;
+}
+#ejercicio2 {background: #38D0E5;border-radius: 18px 18px 18px 18px;
+            -moz-border-radius: 40px 18px 18px 18px;
+            -webkit-border-radius: 18px 18px 18px 18px;
+            border: 0px solid #000000}
+
+#ejercicio3 {background: #8238E5;}
+#ejercicio4 {background: #E538A1;}
+#ejercicio5 {background: #75EC31;}
+#ejercicio6 {background: #E4F726;}
+#ejercicio7 {background: #F5860A;}
+#ejercicio8 {background: #384FB7;}
