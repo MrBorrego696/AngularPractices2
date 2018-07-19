@@ -25,6 +25,6 @@
 // foo ['prop'] = "Moo"; //This works!
 
 // console.log (foo);
-"use strict";
-const foo = Object.freeze({});
-foo.prop = 123;
+// "use strict";
+// const foo = Object.freeze({});
+// foo.prop = 123;
